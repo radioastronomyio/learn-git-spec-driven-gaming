@@ -1,0 +1,46 @@
+cosmic breakout HTML GAME TEMPLATE
+=========================================
+
+License Terms
+-------------
+
+This template is provided FREE of charge for use in any project,
+personal or commercial.
+
+YOU MAY:
+  - Use this template to build games and publish them on any platform
+    (web, mobile, desktop, console)
+  - Sell games you build with this template
+  - Modify, reskin, rebrand, and adapt the code freely
+  - Use it in unlimited personal and commercial projects
+  - Remove or alter any text, branding, or styling
+  - Combine it with other code, assets, or templates
+  - Share your modified version of a finished GAME built with it
+
+YOU MAY NOT:
+  - Resell this template, or a lightly-reskinned version of it,
+    as your own template, asset pack, or starter kit
+  - Redistribute the unmodified template source as your own asset
+  - Claim original authorship of the template itself
+  - Misrepresent another developer's game as being made with
+    this template if it was not
+
+ATTRIBUTION:
+  Not required. Appreciated, but never required. You are free to
+  ship games made with this template without crediting it anywhere.
+
+WARRANTY:
+  This template is provided "AS IS", without warranty of any kind,
+  express or implied, including but not limited to the warranties
+  of merchantability, fitness for a particular purpose, and
+  noninfringement. In no event shall the author be liable for any
+  claim, damages, or other liability arising from the use of this
+  template.
+
+QUESTIONS:
+  If anything in this license is unclear, or you have an unusual
+  use case, leave a comment on the itch.io page and I will clarify.
+
+The spirit of the license is simple:
+  - Build whatever you want with it.
+  - Don't pretend you made the template.
